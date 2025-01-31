@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Praveen Fernando!
 
+![](https://komarev.com/ghpvc/?username=Praveen-Fernando&label=PROFILE+VIEWS)
+
 ---
 
 ### 🚀 About Me  
@@ -30,5 +32,9 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=Praveen-Fernando&label=PROFILE+VIEWS)
----
+
+## 🎖️ GitHub Achievements  
+
+[![Achievements](https://github-profile-trophy.vercel.app/?username=Praveen-Fernando&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
