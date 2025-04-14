@@ -6,9 +6,8 @@
 
 ### 🚀 About Me  
 🔭 I’m currently working on **Java, Spring Boot and Python**  
-🌱 I’m learning **Keycloak SSO, Advanced FastAPI & Spring Security**  
+🌱 I’m learning **Advanced FastAPI & Spring Security**  
 👯 I’m looking to collaborate on **FastAPI, Spring Boot, Next.js & AI-related projects**  
-💬 Ask me about **FastAPI, Spring Boot, SQLAlchemy, PostgreSQL & OAuth**  
 ⚡ Fun fact: I love debugging more than coding sometimes! 😆  
 
 ---
